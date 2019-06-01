@@ -1,4 +1,4 @@
-package com.example.dharmendraverma.game;
+package com.example.dharmendraverma.game.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
+import com.example.dharmendraverma.game.R;
 import com.example.dharmendraverma.game.adapter.ImageAdapter;
 
 import java.util.List;
